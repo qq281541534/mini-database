@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+	<table name="test">
+		<data>{"_uuid":"a3eb1e95-a6ee-4b81-a4a4-4713d941f9de","name":"麦克","sex":"男","age":14.0,"money":5000.5}</data>
+		<data>{"_uuid":"8b7d8d4f-e3f9-46dd-b98f-00dc54ab1f9d","name":"麦克","sex":"男","age":14.0,"money":5000.5}</data>
+		<data>{"_uuid":"b9394194-3347-4bd8-8d29-c6429ffe4573","name":"麦克","sex":"男","age":14.0,"money":5000.5}</data>
+		<data>{"_uuid":"1b09df78-a427-4539-a978-c521c2eb743f","name":"麦克","sex":"男","age":14.0,"money":5000.5}</data>
+		<data>{"_uuid":"3a1b8ce4-406b-4814-ad14-19103e2741c1","name":"麦克","sex":"男","age":14.0,"money":5000.5}</data>
+	</table>
+	<table name="system.indexs"/>
+	<table name="system.users"/>
+</database>
